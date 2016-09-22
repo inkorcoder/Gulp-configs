@@ -5,11 +5,11 @@
 `gulp` 
 `gulp-connect` 
 `gulp-coffee` 
-`gulp-sass,` 
+`gulp-sass` 
 `colors` 
 `gulp-include` 
 `gulp-cssmin` 
-`gulp-rename,` 
+`gulp-rename` 
 `gulp-plumber` 
 `gulp-autoprefixer` 
 `gulp-jsmin` 
